@@ -57,22 +57,26 @@ These versions will receive no support or updates, as these are old versions of 
 
 | Release | Download                                                                                                                          |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 1.20.4   | [fabric-1.20.4-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.20.4-SNAPSHOT.jar) |
-| 1.20.3   | [fabric-1.20.3-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.20.3-SNAPSHOT.jar) |
-| 1.20.2  | [fabric-1.20.2-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.20.2-SNAPSHOT.jar)     |
-| 1.20.1  | [baritone-1.20.1-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.20.1-SNAPSHOT.jar) |
-| 1.20    | [baritone-1.20-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.20-SNAPSHOT.jar)     |
-| 1.19.4  | [baritone-1.19.4-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.19.4-SNAPSHOT.jar) |
-| 1.19.3  | [baritone-1.19.3-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.19.3-SNAPSHOT.jar) |
-| 1.19.2  | [baritone-1.19.2-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.19.2-SNAPSHOT.jar) |
-| 1.19    | [baritone-1.19-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.19-SNAPSHOT.jar)     |
-| 1.18.2  | [baritone-1.18.2-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.18.2-SNAPSHOT.jar) |
-| 1.16.5  | [baritone-1.16.5-SNAPSHOT.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.16.5-SNAPSHOT.jar) |
+| 1.21.3   | [fabric-1.21.3.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.21.3.jar) |
+| 1.21.1   | [fabric-1.21.1.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.21.1.jar) |
+| 1.21    | [fabric-1.21.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.21.jar) |
+| 1.20.6   | [fabric-1.20.6.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.20.6.jar) |
+| 1.20.4   | [fabric-1.20.4.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.20.4.jar) |
+| 1.20.3   | [fabric-1.20.3.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.20.3.jar) |
+| 1.20.2  | [fabric-1.20.2.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/fabric-1.20.2.jar)     |
+| 1.20.1  | [baritone-1.20.1.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.20.1.jar) |
+| 1.20    | [baritone-1.20.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.20.jar)     |
+| 1.19.4  | [baritone-1.19.4.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.19.4.jar) |
+| 1.19.3  | [baritone-1.19.3.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.19.3.jar) |
+| 1.19.2  | [baritone-1.19.2.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.19.2.jar) |
+| 1.19    | [baritone-1.19.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.19.jar)     |
+| 1.18.2  | [baritone-1.18.2.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.18.2.jar) |
+| 1.16.5  | [baritone-1.16.5.jar](https://raw.githubusercontent.com/galaxy13-lab/meteor-archive-Meteor-Baritone/master/files/baritone/baritone-1.16.5.jar) |
 
 ## Missing Versions
 
 | Mod             | Versions                                                                                                                                                        |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Meteor Client   | 0.4.7, 0.4.3, 0.4.1, 0.4.0, 0.3.9, 0.3.7, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.9, 0.2.8-1.15.2, 0.2.8-1.16.1, 0.2.7, 0.2.6-1.14.4, 0.2.6-1.16.1, 0.2.5 |                                                                                          |
-| Meteor Baritone | 1.19.1-SNAPSHOT, 1.18-SNAPSHOT, 1.17-SNAPSHOT                                                                                                                   |
+| Meteor Baritone | 1.19.1, 1.18, 1.17                                                                                                                   |
 
