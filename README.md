@@ -81,7 +81,6 @@ This is the best place to find documentation, report issues, and access communit
 | 1.17.1  | [baritone-1.17.1.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/files/baritone/Fabric/baritone-1.17.1.jar) |
 | 1.16.5  | [baritone-1.16.5.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/files/baritone/Fabric/baritone-1.16.5.jar) |
 | Release | Download Forge                                                                                                                         |
-|---------|-----------------------------------------------------------------------------------------------------------------------------------|
 | 1.21.3  | [baritone-1.21.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/files/baritone/Forge/baritone-forge-1.21.3.jar) |
 | 1.20.4  | [baritone-1.20.4.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/files/baritone/Forge/baritone-forge-1.20.4.jar) |
 | 1.20.3  | [baritone-1.20.3.jar](https://github.com/Galax71/meteor-archive-and-Baritone-archive/raw/refs/heads/master/files/baritone/Forge/baritone-forge-1.20.3.jar) |
